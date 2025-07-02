@@ -28,5 +28,8 @@
   },
   "scripts": {
     "prepare": "husky"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
   }
 }
