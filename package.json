@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "packageManager": "yarn@4.9.1",
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "services/*"
   ],
   "resolutions": {
     "typescript": "5.8.3"
