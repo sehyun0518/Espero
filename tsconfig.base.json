@@ -19,7 +19,7 @@
     /* Language and Environment */
     "experimentalDecorators": true,
     "jsx": "react-jsx",
-    "lib": ["ESNext", "ESNext.AsyncIterable"],
+    "lib": ["ESNext", "ESNext.AsyncIterable", "DOM"],
     "target": "ESNext",
 
     /* Interop Constraints */
