@@ -16,7 +16,6 @@ Espero는 React Native와 TypeScript 기반의 모노레포 구조 앱으로, �
 ├── .husky/
 │   ├── pre-commit
 │   └── commit-msg
-├── lint-staged.config.js
 ├── services/
 │   ├── client/              # 사용자 React Native 앱
 │   │   ├── src/
