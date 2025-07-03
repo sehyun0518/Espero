@@ -6896,6 +6896,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"client@workspace:services/client":
+  version: 0.0.0-use.local
+  resolution: "client@workspace:services/client"
+  dependencies:
+    "@react-native/metro-config": "npm:*"
+    "@testing-library/jest-native": "npm:*"
+    "@testing-library/react-native": "npm:*"
+    metro-config: "npm:*"
+    react: "npm:*"
+    react-native: "npm:*"
+    react-native-svg: "npm:*"
+  languageName: unknown
+  linkType: soft
+
 "cliui@npm:^6.0.0":
   version: 6.0.0
   resolution: "cliui@npm:6.0.0"
