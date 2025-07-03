@@ -1,7 +1,7 @@
 # 🌟 Espero (모노레포 React Native 앱)
 
 ## 📘 소개
-Espero는 React Native와 TypeScript 기반의 모노레포 구조 앱으로, **공용 패키지(design-system 등)**와 클라이언트와 어드민 앱으로 구성되어 있습니다.
+Espero는 React Native와 TypeScript 기반의 모노레포 구조 앱으로, 공용 패키지(design-system 등)와 클라이언트와 어드민 앱으로 구성되어 있습니다.
 클린 아키텍쳐, 협업 편의성(일관된 타입 검사, 자동 Git 훅) Nativewind 스타일링 등 현대적인 개발 환경을 지향합니다.
 
 ## 📁 구조
