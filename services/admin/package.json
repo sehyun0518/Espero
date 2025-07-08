@@ -10,5 +10,8 @@
     "react": "*",
     "react-native": "*",
     "react-native-svg": "*"
+  },
+  "scripts": {
+    "link-fonts": "yarn dlx react-native-asset"
   }
 }

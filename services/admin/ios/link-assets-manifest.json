@@ -1,0 +1,297 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-Bold.ttf",
+      "sha1": "260f37817e53e956893d5444564685351c3f344d"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-ExtraBold.ttf",
+      "sha1": "18142924cde92e4044145027170278d06556d017"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-ExtraLight.ttf",
+      "sha1": "d6bf885fd51c079fde494231dcbf8de31ae9adda"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-Heavy.ttf",
+      "sha1": "e9276c72058de1826ada980e6290c5f301610032"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-Light.ttf",
+      "sha1": "1ec865181a4fbc45940ba1b6a17eebe51d8c1988"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-Medium.ttf",
+      "sha1": "1f8cc07eb00d6117f6b3ca52763d367fd20581f2"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-Regular.ttf",
+      "sha1": "cd14bef9e9e8e9cd81cff5ba720685eab860d754"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-SemiBold.ttf",
+      "sha1": "ab1bd61b305551638ca9d8e9d870f6bcc2c0c1c5"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/fonts/SUIT-Thin.ttf",
+      "sha1": "3cb0fc31ddbd4664eacce7fedf2f26df6b58f587"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/alert-filled.svg",
+      "sha1": "dd08b4b87f010ad82b106c6eab66919928e8518c"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/alert.svg",
+      "sha1": "7539f1ddd18d26b9a8b22ebf78c47ec3b2430201"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/arrow-down.svg",
+      "sha1": "aff4c3d3cf16bc205465de6bf1469759f449de08"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/arrow-up.svg",
+      "sha1": "b0612a2eb597d538c358abc65fa14d836d972ef8"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/arrow.svg",
+      "sha1": "c1b9643445104c01c3cb988520542bdf50aa888b"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/calendar.svg",
+      "sha1": "81f2a08794c70041e7e660e69708749bf919fab9"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/camera.svg",
+      "sha1": "fdedbe1d97a10ad4d967c75f68d9b7acbb7bf23b"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/check.svg",
+      "sha1": "9c9d21aa8d7a05fb4243d316fd27862b4d900494"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/checkbox-field.svg",
+      "sha1": "d03628f838270f8c3ff3e0b397db091488fd12a5"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/checkbox-filled.svg",
+      "sha1": "5bc070fdeb176c1f4c4d3dd9d5d1b02261e60331"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/checkbox-nonfilled.svg",
+      "sha1": "29a4caf76506a11825d81447ad914a03d41ea25d"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/chevron.svg",
+      "sha1": "9c45c73331d5da84558c0fa05e5992347c7805cc"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/circle_filled.svg",
+      "sha1": "4c4b13cc36f9089ff4de5af8fd7d651cd2a50bbe"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/close-active.svg",
+      "sha1": "b1ea51ad2da88c27bece786b3f99b85ef107c4de"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/close.svg",
+      "sha1": "dd500e2369f57bcf333453d9d4a0f5a2119cd2c1"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/facebook.svg",
+      "sha1": "150082f5197591028a18ef99872dea9dab607a73"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/geo-fill.svg",
+      "sha1": "53af574fe79a38b8bcf935ed240241f96ddd205b"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/geo.svg",
+      "sha1": "24e5f19bd5a50bce096e0a7fa147856bb0a29098"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/geopoint-filled.svg",
+      "sha1": "f1e7f80c831e3be95a17908ab900d4328f6a5b16"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/geopoint.svg",
+      "sha1": "f547c0a22c36d7cba88e76e1fc069a55c1c7b6a7"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/google.svg",
+      "sha1": "1fb7158bef3855616969752fa89847a4370812b5"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/guestbook-board.svg",
+      "sha1": "a70e94a08732135ab9d5fc4cb80962be851eb5cc"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/guestbook-filled.svg",
+      "sha1": "421a985c322bcbca8495dbafb1c0fcdde73e31d2"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/guestbook-new.svg",
+      "sha1": "831e716113a718a10ad7b783aa4f7129e92a421f"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/guestbook.svg",
+      "sha1": "3bd4cc0ca8463c7a0a6916dfe624b8337c1054f5"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/heart-fill.svg",
+      "sha1": "b5d18420538ba1bd6fbb99e423e59d87f04d1d13"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/heart.svg",
+      "sha1": "b291305839e1c7f2504673aa43548c3368166a98"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/help.svg",
+      "sha1": "db1cf3f98ea9dd65db3a6639f5d9dba950e381de"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/home-filled.svg",
+      "sha1": "c7b8815fec99a146564d28ab0155c7bfb1159caa"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/home.svg",
+      "sha1": "400645cedc9eb715872bc8acae77112c1e90e403"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/instagram.svg",
+      "sha1": "b2cb87ce9a2b83b58e9e9b928ac4b55002798d07"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-bus_stop.svg",
+      "sha1": "b8fbfbdbf2273dd22f9cce47400ada924615b249"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-contents.svg",
+      "sha1": "a790cd3891c43b31a65217228b33842b0a158590"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-flea_market.svg",
+      "sha1": "3609b48445121f1353b387b84d4c61f172e99327"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-food_truck.svg",
+      "sha1": "967da23c83458dc75cd2573eb989fe26328e228d"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-liquer_store.svg",
+      "sha1": "9956b972688ceeb2e9bfd4507bc76f19ed5387a5"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-performance_hall.svg",
+      "sha1": "4ca7cafb11bae26d3b87971edc3e6a68fd91bad2"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-promation.svg",
+      "sha1": "d782ad93967f88460c024c3e96629680089de6c5"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-pub.svg",
+      "sha1": "ac244fdefcafa47ac75d0ce3be73cc8823cb58d1"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-smoking_area.svg",
+      "sha1": "b600cae93ab30ca6b08ebc26f4cfc4b523794ca5"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/marker-toilet.svg",
+      "sha1": "ef09e702b6f66e30ebbc0eaea36c021bc77e7762"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/minus.svg",
+      "sha1": "1f244f01005531b32271616fb461f2fc75e00148"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/mobile.svg",
+      "sha1": "8b08349936c322ed9d53c57aa91dd37a59b3dc31"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/moon.svg",
+      "sha1": "0828c3bb399e891c2e5cfeaffa49c26aa6e2f70b"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/plus.svg",
+      "sha1": "a140a0f11d41039cb1de1cbb44b8d860fa28ff3a"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/pub-filled.svg",
+      "sha1": "d8098f39266e166a11c7b43c7493685ff1c02e79"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/pub.svg",
+      "sha1": "d629c727e2663209957cee5b1c344a5bc5ea31cd"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/refresh.svg",
+      "sha1": "852050f8b2743e11b161bd6a66232f0f397833ed"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/search.svg",
+      "sha1": "a2e2cbec6acac14eb56c6a862e3b2c0a7d3b8909"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/stage-eighth.svg",
+      "sha1": "a450634dd0d48e9b7fa6ac0f235b5e2f23414841"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/stage-filled.svg",
+      "sha1": "63e51924bceb54dd82351a23d8e13ee0e02d72af"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/stage.svg",
+      "sha1": "586ee0819b208607ce82e7d21e2dd5c9840857af"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/star-fill.svg",
+      "sha1": "c241ba6464d46e9dec7b607ad7cd1f41e8711231"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/star.svg",
+      "sha1": "fab55cd48983f49767c5c4ac2eee420732541851"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/sun.svg",
+      "sha1": "dadff07f9afffa53aa77f32adc3c2dc292bcd347"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/time.svg",
+      "sha1": "062af96935b7e87c79ef7be04b08ee01eb6c8f09"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/toilet.svg",
+      "sha1": "a1422a4f25117b40b2ae24c0a3c795f7cefa0909"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/trash.svg",
+      "sha1": "627f7526ac338f2c65a8eda16fb3d8511c434952"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/waiting-filled.svg",
+      "sha1": "222e61626073ea4901283efdac36c7cce5866fb2"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/waiting.svg",
+      "sha1": "077c2ec4b327f01df3cdb0abf04ad741f131f0a6"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/icons/write.svg",
+      "sha1": "e8044db8ea1c710ffa47d76079a1119bfee67f36"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/images/app-logo.svg",
+      "sha1": "bed6ad6405bd4a856baa5dbc13b68d0cb4720e5b"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/images/company-logo.svg",
+      "sha1": "394e8815101e9486dbac468061f4c3f9bb66528c"
+    },
+    {
+      "path": "../../packages/design-system/src/assets/images/school-logo.svg",
+      "sha1": "da3237e0d30d761af01650d4e00d9df0f64a3000"
+    }
+  ]
+}

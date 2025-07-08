@@ -8,13 +8,86 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* AdminTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AdminTests.m */; };
+		00E4F2BE3E6C4368B7B2FC21 /* close.svg in Resources */ = {isa = PBXBuildFile; fileRef = 30049FACEE474411B1A26E95 /* close.svg */; };
+		01FC83776D984BA68494295B /* SUIT-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 78738118DDC646B198CC8695 /* SUIT-Medium.ttf */; };
+		0795F098B7DE41818AAB5998 /* SUIT-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EE9E6DEAFB6F46CDA35FC957 /* SUIT-Thin.ttf */; };
+		07D36A1F228A4E1B918F0C1C /* alert.svg in Resources */ = {isa = PBXBuildFile; fileRef = D9C3DE4167454ACC86A9A50D /* alert.svg */; };
+		09FF41D397DA4450A495F3BF /* pub.svg in Resources */ = {isa = PBXBuildFile; fileRef = A600CF2EFAE34A5AB8651E7C /* pub.svg */; };
 		0C80B921A6F3F58F76C31292 /* libPods-Admin.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-Admin.a */; };
+		0F0CA9F5732C49A58606B590 /* marker-smoking_area.svg in Resources */ = {isa = PBXBuildFile; fileRef = 006DBB0084F843A6B647536F /* marker-smoking_area.svg */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		19BA04F8A150448C81297373 /* marker-performance_hall.svg in Resources */ = {isa = PBXBuildFile; fileRef = EC57145CBFF14F4B9FE8FA09 /* marker-performance_hall.svg */; };
+		1C0564E5D71E46E5BBCC859D /* geopoint.svg in Resources */ = {isa = PBXBuildFile; fileRef = 4C52E374F5ED4689B1F86C84 /* geopoint.svg */; };
+		1FE89004800C4079BB295862 /* check.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6F6EAA19E6254F11A2991E00 /* check.svg */; };
+		2664F6C83DC940338EFDC51E /* instagram.svg in Resources */ = {isa = PBXBuildFile; fileRef = B05B6D0003024D05AA86B2CA /* instagram.svg */; };
 		27E66D29359DBF956A33E2A3 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		2B70AE1DBEDC4C8A933BE704 /* calendar.svg in Resources */ = {isa = PBXBuildFile; fileRef = C56BF7D818A346FD8E26C9CB /* calendar.svg */; };
+		32B6C8C229E44B24BE94E692 /* plus.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5842E4AEAC454CF3A7774D1E /* plus.svg */; };
+		36F5CF8F9006427BBA4F59D6 /* SUIT-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E1269F2C6EE44939B1A0DB2 /* SUIT-Regular.ttf */; };
+		4411B06A030F435CA472E1A2 /* mobile.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5E03A721E0354F329586A5A6 /* mobile.svg */; };
+		4807B72C2B914646A92B3D2C /* chevron.svg in Resources */ = {isa = PBXBuildFile; fileRef = 87EDAD117F954D8BA0BE1228 /* chevron.svg */; };
+		4ACB5D46476F440BB06C699A /* SUIT-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 46B65C615D0A4D7F9B7043CB /* SUIT-ExtraBold.ttf */; };
+		569862EB1AE64216B78263E1 /* refresh.svg in Resources */ = {isa = PBXBuildFile; fileRef = A194375C0C324576BB17B926 /* refresh.svg */; };
+		59459CB060BD4B5DB4151AE9 /* marker-bus_stop.svg in Resources */ = {isa = PBXBuildFile; fileRef = CBC36393E26F442DB47586E9 /* marker-bus_stop.svg */; };
+		596F27E96E014D7DB30C9F82 /* home-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = B3C81A38422E4904A873B078 /* home-filled.svg */; };
+		5BF1E3E9C01B46C2AFD4CF69 /* checkbox-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = 84AC4937D99E493992222360 /* checkbox-filled.svg */; };
+		5DB184F077C1410E8DFB206F /* waiting-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = D43DDA72A4574DB7A54AF228 /* waiting-filled.svg */; };
+		5E0A321F6A0F41048FE991C8 /* guestbook-board.svg in Resources */ = {isa = PBXBuildFile; fileRef = 2E8B259EBB084AB6998A194B /* guestbook-board.svg */; };
+		5E7FEFA9619E45CE91BB45EF /* stage-eighth.svg in Resources */ = {isa = PBXBuildFile; fileRef = 89D56712D1CB4D7A9343F894 /* stage-eighth.svg */; };
+		606C8228797947788079981C /* guestbook-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = 16627210F4754C53B66B180A /* guestbook-filled.svg */; };
+		6AD8A6B4472F4C5983F03FAB /* help.svg in Resources */ = {isa = PBXBuildFile; fileRef = C1226A9765954A1F974D89E4 /* help.svg */; };
+		6E92E4115FA640B2ABFE44B7 /* geopoint-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = 126292DF5F6E4922B13A62C7 /* geopoint-filled.svg */; };
+		71B1569853694FD3BD0997A7 /* stage.svg in Resources */ = {isa = PBXBuildFile; fileRef = C8C7B12C4DFB423C89835340 /* stage.svg */; };
+		748BD9ABCA104A0BA5AD3E7A /* star.svg in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B5824E73C4749B1C45368 /* star.svg */; };
 		7699B88040F8A987B510C191 /* libPods-Admin-AdminTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Admin-AdminTests.a */; };
+		796C4BF7F5E746EC8B2AA8B8 /* SUIT-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6043C26C436F4832B729821E /* SUIT-Bold.ttf */; };
+		7B291DDC57F546C98E4A8417 /* heart.svg in Resources */ = {isa = PBXBuildFile; fileRef = CA0D1DB410E648179792A9D5 /* heart.svg */; };
+		7C00DC762B2A4703AF3D16E7 /* star-fill.svg in Resources */ = {isa = PBXBuildFile; fileRef = 811BE927FCB849A69DC6665D /* star-fill.svg */; };
+		7D3EC72B7755410697B45883 /* write.svg in Resources */ = {isa = PBXBuildFile; fileRef = 42D2F8E4D2424FC5AEA73FE1 /* write.svg */; };
+		7D7E7FD240DC406985520F57 /* search.svg in Resources */ = {isa = PBXBuildFile; fileRef = 94191FC61E094B5BA8B698CD /* search.svg */; };
+		7E36949C8D91401EB052A682 /* google.svg in Resources */ = {isa = PBXBuildFile; fileRef = 125FD8C3EAAD46448756BAF4 /* google.svg */; };
+		7F15E9C53E0245CB8C951232 /* guestbook-new.svg in Resources */ = {isa = PBXBuildFile; fileRef = D58372311E6649B5ABE752D7 /* guestbook-new.svg */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		84EB6D1FAD5643C79039A24B /* company-logo.svg in Resources */ = {isa = PBXBuildFile; fileRef = C56B8CB56F0D4DA4A716BDF5 /* company-logo.svg */; };
+		87FCD501D81246E5B078DFEC /* trash.svg in Resources */ = {isa = PBXBuildFile; fileRef = 8A700C3FF6F144399E3F14FE /* trash.svg */; };
+		8E7AB22C9F5E430BA282A301 /* SUIT-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5F0877E834E4763ADEB1052 /* SUIT-Heavy.ttf */; };
+		90F0E2E721E646329DC9766F /* SUIT-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE33EBEB4AD24AF4BCF16686 /* SUIT-ExtraLight.ttf */; };
+		91816BA0BC4542ACAE03F1AF /* arrow-up.svg in Resources */ = {isa = PBXBuildFile; fileRef = DE75EE662C1D433BB0823A23 /* arrow-up.svg */; };
+		91F8928AE98D42F48EFB3FDB /* alert-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = 7BDD422C9D824BD3AB448BAE /* alert-filled.svg */; };
+		94E53C4134C64E8B84934666 /* geo-fill.svg in Resources */ = {isa = PBXBuildFile; fileRef = E89E6C4C5896462B9BB68469 /* geo-fill.svg */; };
+		9A73C205F779492DBDEA8FB0 /* facebook.svg in Resources */ = {isa = PBXBuildFile; fileRef = 36DA037836AF4F3CA9403BAD /* facebook.svg */; };
+		A310F2E53FAA40AD94800743 /* home.svg in Resources */ = {isa = PBXBuildFile; fileRef = EB3ED86095CF4EF6BAB30A58 /* home.svg */; };
+		AB2A922B58F34670A47453E4 /* SUIT-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 88446BD0CF5148FCAED37427 /* SUIT-Light.ttf */; };
+		B5621783EE1140E69A556914 /* marker-toilet.svg in Resources */ = {isa = PBXBuildFile; fileRef = FC470BF950A7477B8DE558D8 /* marker-toilet.svg */; };
+		B5E1B30F240D4F589E537F8B /* stage-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = 611EB9B19D9449D0BDC8FC82 /* stage-filled.svg */; };
+		B7378B4C6DC74108BAAA5A23 /* checkbox-field.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9D68B83FAE16435D93E9D01A /* checkbox-field.svg */; };
+		B8F69A9746D54CD0977ABFF2 /* school-logo.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6460459714914BCEAEB539B0 /* school-logo.svg */; };
+		BE0EB9FFC5704664A0E1CD9E /* SUIT-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D1DC630833604FBD9FE62B68 /* SUIT-SemiBold.ttf */; };
+		BF017822321C406EAB073CD8 /* circle_filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = C86F51138C7D462B8607BD8C /* circle_filled.svg */; };
+		C5D707F5621A425B9009A56C /* minus.svg in Resources */ = {isa = PBXBuildFile; fileRef = 241D4F4D894C47E7BF0D2A77 /* minus.svg */; };
+		CB7BFF12198A4604B6EE9315 /* marker-promation.svg in Resources */ = {isa = PBXBuildFile; fileRef = EDBD254F5A504010993F7340 /* marker-promation.svg */; };
+		CC1BA2128B57440782F00380 /* marker-pub.svg in Resources */ = {isa = PBXBuildFile; fileRef = 1A1FFB3DB8384BD99C71EBB2 /* marker-pub.svg */; };
+		CEA52BD250554F3AAB667302 /* pub-filled.svg in Resources */ = {isa = PBXBuildFile; fileRef = 76A715E1918D4A3B9F59F2E7 /* pub-filled.svg */; };
+		D2CD60B0D8F446ACB3B5432A /* checkbox-nonfilled.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6022BF2FD50743F1844610BC /* checkbox-nonfilled.svg */; };
+		D3F09EFBC4D54181A7F1E47E /* arrow-down.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3EEA23C306364A0C8DED7268 /* arrow-down.svg */; };
+		D6834BA180F94C4DA590798D /* geo.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5D2059B2FD2E440D983F3FD7 /* geo.svg */; };
+		D80593954A9D4ECFBA1DB52E /* toilet.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9B7CAF17DA374D70978D1A30 /* toilet.svg */; };
+		D9C0F3F8669D4245A303FF73 /* waiting.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6E153B4A8481495EAC85F9BB /* waiting.svg */; };
+		DB0E573F323E4D17A1686D78 /* marker-contents.svg in Resources */ = {isa = PBXBuildFile; fileRef = 111424D8ADA64EE2ADB7B185 /* marker-contents.svg */; };
+		DC37976573C54B728D852A93 /* moon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 667B74B4DD9F48A59CC9B5C4 /* moon.svg */; };
+		DD7E738E5E3B4EAB89574317 /* app-logo.svg in Resources */ = {isa = PBXBuildFile; fileRef = 7CDD24CBCA8B4F32A5237932 /* app-logo.svg */; };
+		DEA84F7B7678473AAAB72F16 /* marker-flea_market.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3896B499E64B422F89D47EEB /* marker-flea_market.svg */; };
+		E030A38230AC487E8833CADA /* camera.svg in Resources */ = {isa = PBXBuildFile; fileRef = FC2CA4ADF99F47BBBDB3BAFE /* camera.svg */; };
+		E120A7AA06404E498C2F0B0E /* time.svg in Resources */ = {isa = PBXBuildFile; fileRef = 27B86C5A952F479EAEA79B9A /* time.svg */; };
+		E3720E1B44CF4980AC925831 /* close-active.svg in Resources */ = {isa = PBXBuildFile; fileRef = D944B14897E14C99800CAD4C /* close-active.svg */; };
+		E5402A6E3E5649E295E22632 /* arrow.svg in Resources */ = {isa = PBXBuildFile; fileRef = D2F1E234C6D446F5B75BA5F8 /* arrow.svg */; };
+		EBFF0260A3C242D9B307D9DB /* heart-fill.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5330844A53104BF5BD790A1F /* heart-fill.svg */; };
+		EDCBCBAFFE9841A9A0B4D262 /* marker-food_truck.svg in Resources */ = {isa = PBXBuildFile; fileRef = 805E46D98FF24A59AB006178 /* marker-food_truck.svg */; };
+		F8D86C9F6F2C4B9A986882F0 /* marker-liquer_store.svg in Resources */ = {isa = PBXBuildFile; fileRef = 902415BDADA34B27AF0190A6 /* marker-liquer_store.svg */; };
+		F8ED999B17484AE8A42C5347 /* sun.svg in Resources */ = {isa = PBXBuildFile; fileRef = A2CC44C7DAAB41BA8B625C89 /* sun.svg */; };
+		FBE936503531491AB64430CD /* guestbook.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9AC264A740304726ABC81F83 /* guestbook.svg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,9 +101,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		006DBB0084F843A6B647536F /* marker-smoking_area.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-smoking_area.svg"; path = "../../../packages/design-system/src/assets/icons/marker-smoking_area.svg"; sourceTree = "<group>"; };
 		00E356EE1AD99517003FC87E /* AdminTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdminTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* AdminTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AdminTests.m; sourceTree = "<group>"; };
+		111424D8ADA64EE2ADB7B185 /* marker-contents.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-contents.svg"; path = "../../../packages/design-system/src/assets/icons/marker-contents.svg"; sourceTree = "<group>"; };
+		125FD8C3EAAD46448756BAF4 /* google.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = google.svg; path = "../../../packages/design-system/src/assets/icons/google.svg"; sourceTree = "<group>"; };
+		126292DF5F6E4922B13A62C7 /* geopoint-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "geopoint-filled.svg"; path = "../../../packages/design-system/src/assets/icons/geopoint-filled.svg"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Admin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Admin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Admin/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = Admin/AppDelegate.mm; sourceTree = "<group>"; };
@@ -38,14 +115,83 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Admin/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Admin/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Admin/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		16627210F4754C53B66B180A /* guestbook-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "guestbook-filled.svg"; path = "../../../packages/design-system/src/assets/icons/guestbook-filled.svg"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-Admin-AdminTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Admin-AdminTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A1FFB3DB8384BD99C71EBB2 /* marker-pub.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-pub.svg"; path = "../../../packages/design-system/src/assets/icons/marker-pub.svg"; sourceTree = "<group>"; };
+		241D4F4D894C47E7BF0D2A77 /* minus.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = minus.svg; path = "../../../packages/design-system/src/assets/icons/minus.svg"; sourceTree = "<group>"; };
+		27B86C5A952F479EAEA79B9A /* time.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = time.svg; path = "../../../packages/design-system/src/assets/icons/time.svg"; sourceTree = "<group>"; };
+		2E8B259EBB084AB6998A194B /* guestbook-board.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "guestbook-board.svg"; path = "../../../packages/design-system/src/assets/icons/guestbook-board.svg"; sourceTree = "<group>"; };
+		30049FACEE474411B1A26E95 /* close.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = close.svg; path = "../../../packages/design-system/src/assets/icons/close.svg"; sourceTree = "<group>"; };
+		36DA037836AF4F3CA9403BAD /* facebook.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = facebook.svg; path = "../../../packages/design-system/src/assets/icons/facebook.svg"; sourceTree = "<group>"; };
+		3896B499E64B422F89D47EEB /* marker-flea_market.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-flea_market.svg"; path = "../../../packages/design-system/src/assets/icons/marker-flea_market.svg"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-Admin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Admin.debug.xcconfig"; path = "Target Support Files/Pods-Admin/Pods-Admin.debug.xcconfig"; sourceTree = "<group>"; };
+		3EEA23C306364A0C8DED7268 /* arrow-down.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "arrow-down.svg"; path = "../../../packages/design-system/src/assets/icons/arrow-down.svg"; sourceTree = "<group>"; };
+		42D2F8E4D2424FC5AEA73FE1 /* write.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = write.svg; path = "../../../packages/design-system/src/assets/icons/write.svg"; sourceTree = "<group>"; };
+		46B65C615D0A4D7F9B7043CB /* SUIT-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-ExtraBold.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-ExtraBold.ttf"; sourceTree = "<group>"; };
+		4C52E374F5ED4689B1F86C84 /* geopoint.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = geopoint.svg; path = "../../../packages/design-system/src/assets/icons/geopoint.svg"; sourceTree = "<group>"; };
+		4E1269F2C6EE44939B1A0DB2 /* SUIT-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Regular.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-Regular.ttf"; sourceTree = "<group>"; };
+		4F4B5824E73C4749B1C45368 /* star.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = star.svg; path = "../../../packages/design-system/src/assets/icons/star.svg"; sourceTree = "<group>"; };
+		5330844A53104BF5BD790A1F /* heart-fill.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "heart-fill.svg"; path = "../../../packages/design-system/src/assets/icons/heart-fill.svg"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Admin.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Admin.release.xcconfig"; path = "Target Support Files/Pods-Admin/Pods-Admin.release.xcconfig"; sourceTree = "<group>"; };
+		5842E4AEAC454CF3A7774D1E /* plus.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = plus.svg; path = "../../../packages/design-system/src/assets/icons/plus.svg"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Admin-AdminTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Admin-AdminTests.debug.xcconfig"; path = "Target Support Files/Pods-Admin-AdminTests/Pods-Admin-AdminTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5D2059B2FD2E440D983F3FD7 /* geo.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = geo.svg; path = "../../../packages/design-system/src/assets/icons/geo.svg"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Admin.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Admin.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E03A721E0354F329586A5A6 /* mobile.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = mobile.svg; path = "../../../packages/design-system/src/assets/icons/mobile.svg"; sourceTree = "<group>"; };
+		6022BF2FD50743F1844610BC /* checkbox-nonfilled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "checkbox-nonfilled.svg"; path = "../../../packages/design-system/src/assets/icons/checkbox-nonfilled.svg"; sourceTree = "<group>"; };
+		6043C26C436F4832B729821E /* SUIT-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Bold.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-Bold.ttf"; sourceTree = "<group>"; };
+		611EB9B19D9449D0BDC8FC82 /* stage-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "stage-filled.svg"; path = "../../../packages/design-system/src/assets/icons/stage-filled.svg"; sourceTree = "<group>"; };
+		6460459714914BCEAEB539B0 /* school-logo.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "school-logo.svg"; path = "../../../packages/design-system/src/assets/images/school-logo.svg"; sourceTree = "<group>"; };
+		667B74B4DD9F48A59CC9B5C4 /* moon.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = moon.svg; path = "../../../packages/design-system/src/assets/icons/moon.svg"; sourceTree = "<group>"; };
+		6E153B4A8481495EAC85F9BB /* waiting.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = waiting.svg; path = "../../../packages/design-system/src/assets/icons/waiting.svg"; sourceTree = "<group>"; };
+		6F6EAA19E6254F11A2991E00 /* check.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = check.svg; path = "../../../packages/design-system/src/assets/icons/check.svg"; sourceTree = "<group>"; };
+		76A715E1918D4A3B9F59F2E7 /* pub-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "pub-filled.svg"; path = "../../../packages/design-system/src/assets/icons/pub-filled.svg"; sourceTree = "<group>"; };
+		78738118DDC646B198CC8695 /* SUIT-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Medium.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-Medium.ttf"; sourceTree = "<group>"; };
+		7BDD422C9D824BD3AB448BAE /* alert-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "alert-filled.svg"; path = "../../../packages/design-system/src/assets/icons/alert-filled.svg"; sourceTree = "<group>"; };
+		7CDD24CBCA8B4F32A5237932 /* app-logo.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "app-logo.svg"; path = "../../../packages/design-system/src/assets/images/app-logo.svg"; sourceTree = "<group>"; };
+		805E46D98FF24A59AB006178 /* marker-food_truck.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-food_truck.svg"; path = "../../../packages/design-system/src/assets/icons/marker-food_truck.svg"; sourceTree = "<group>"; };
+		811BE927FCB849A69DC6665D /* star-fill.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "star-fill.svg"; path = "../../../packages/design-system/src/assets/icons/star-fill.svg"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Admin/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84AC4937D99E493992222360 /* checkbox-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "checkbox-filled.svg"; path = "../../../packages/design-system/src/assets/icons/checkbox-filled.svg"; sourceTree = "<group>"; };
+		87EDAD117F954D8BA0BE1228 /* chevron.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = chevron.svg; path = "../../../packages/design-system/src/assets/icons/chevron.svg"; sourceTree = "<group>"; };
+		88446BD0CF5148FCAED37427 /* SUIT-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Light.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-Light.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Admin-AdminTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Admin-AdminTests.release.xcconfig"; path = "Target Support Files/Pods-Admin-AdminTests/Pods-Admin-AdminTests.release.xcconfig"; sourceTree = "<group>"; };
+		89D56712D1CB4D7A9343F894 /* stage-eighth.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "stage-eighth.svg"; path = "../../../packages/design-system/src/assets/icons/stage-eighth.svg"; sourceTree = "<group>"; };
+		8A700C3FF6F144399E3F14FE /* trash.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = trash.svg; path = "../../../packages/design-system/src/assets/icons/trash.svg"; sourceTree = "<group>"; };
+		902415BDADA34B27AF0190A6 /* marker-liquer_store.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-liquer_store.svg"; path = "../../../packages/design-system/src/assets/icons/marker-liquer_store.svg"; sourceTree = "<group>"; };
+		94191FC61E094B5BA8B698CD /* search.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = search.svg; path = "../../../packages/design-system/src/assets/icons/search.svg"; sourceTree = "<group>"; };
+		9AC264A740304726ABC81F83 /* guestbook.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = guestbook.svg; path = "../../../packages/design-system/src/assets/icons/guestbook.svg"; sourceTree = "<group>"; };
+		9B7CAF17DA374D70978D1A30 /* toilet.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = toilet.svg; path = "../../../packages/design-system/src/assets/icons/toilet.svg"; sourceTree = "<group>"; };
+		9D68B83FAE16435D93E9D01A /* checkbox-field.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "checkbox-field.svg"; path = "../../../packages/design-system/src/assets/icons/checkbox-field.svg"; sourceTree = "<group>"; };
+		A194375C0C324576BB17B926 /* refresh.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = refresh.svg; path = "../../../packages/design-system/src/assets/icons/refresh.svg"; sourceTree = "<group>"; };
+		A2CC44C7DAAB41BA8B625C89 /* sun.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = sun.svg; path = "../../../packages/design-system/src/assets/icons/sun.svg"; sourceTree = "<group>"; };
+		A600CF2EFAE34A5AB8651E7C /* pub.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = pub.svg; path = "../../../packages/design-system/src/assets/icons/pub.svg"; sourceTree = "<group>"; };
+		B05B6D0003024D05AA86B2CA /* instagram.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = instagram.svg; path = "../../../packages/design-system/src/assets/icons/instagram.svg"; sourceTree = "<group>"; };
+		B3C81A38422E4904A873B078 /* home-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "home-filled.svg"; path = "../../../packages/design-system/src/assets/icons/home-filled.svg"; sourceTree = "<group>"; };
+		BE33EBEB4AD24AF4BCF16686 /* SUIT-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-ExtraLight.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-ExtraLight.ttf"; sourceTree = "<group>"; };
+		C1226A9765954A1F974D89E4 /* help.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = help.svg; path = "../../../packages/design-system/src/assets/icons/help.svg"; sourceTree = "<group>"; };
+		C56B8CB56F0D4DA4A716BDF5 /* company-logo.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "company-logo.svg"; path = "../../../packages/design-system/src/assets/images/company-logo.svg"; sourceTree = "<group>"; };
+		C56BF7D818A346FD8E26C9CB /* calendar.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = calendar.svg; path = "../../../packages/design-system/src/assets/icons/calendar.svg"; sourceTree = "<group>"; };
+		C86F51138C7D462B8607BD8C /* circle_filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = circle_filled.svg; path = "../../../packages/design-system/src/assets/icons/circle_filled.svg"; sourceTree = "<group>"; };
+		C8C7B12C4DFB423C89835340 /* stage.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = stage.svg; path = "../../../packages/design-system/src/assets/icons/stage.svg"; sourceTree = "<group>"; };
+		CA0D1DB410E648179792A9D5 /* heart.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = heart.svg; path = "../../../packages/design-system/src/assets/icons/heart.svg"; sourceTree = "<group>"; };
+		CBC36393E26F442DB47586E9 /* marker-bus_stop.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-bus_stop.svg"; path = "../../../packages/design-system/src/assets/icons/marker-bus_stop.svg"; sourceTree = "<group>"; };
+		D1DC630833604FBD9FE62B68 /* SUIT-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-SemiBold.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-SemiBold.ttf"; sourceTree = "<group>"; };
+		D2F1E234C6D446F5B75BA5F8 /* arrow.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = arrow.svg; path = "../../../packages/design-system/src/assets/icons/arrow.svg"; sourceTree = "<group>"; };
+		D43DDA72A4574DB7A54AF228 /* waiting-filled.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "waiting-filled.svg"; path = "../../../packages/design-system/src/assets/icons/waiting-filled.svg"; sourceTree = "<group>"; };
+		D58372311E6649B5ABE752D7 /* guestbook-new.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "guestbook-new.svg"; path = "../../../packages/design-system/src/assets/icons/guestbook-new.svg"; sourceTree = "<group>"; };
+		D944B14897E14C99800CAD4C /* close-active.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "close-active.svg"; path = "../../../packages/design-system/src/assets/icons/close-active.svg"; sourceTree = "<group>"; };
+		D9C3DE4167454ACC86A9A50D /* alert.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = alert.svg; path = "../../../packages/design-system/src/assets/icons/alert.svg"; sourceTree = "<group>"; };
+		DE75EE662C1D433BB0823A23 /* arrow-up.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "arrow-up.svg"; path = "../../../packages/design-system/src/assets/icons/arrow-up.svg"; sourceTree = "<group>"; };
+		E89E6C4C5896462B9BB68469 /* geo-fill.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "geo-fill.svg"; path = "../../../packages/design-system/src/assets/icons/geo-fill.svg"; sourceTree = "<group>"; };
+		EB3ED86095CF4EF6BAB30A58 /* home.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = home.svg; path = "../../../packages/design-system/src/assets/icons/home.svg"; sourceTree = "<group>"; };
+		EC57145CBFF14F4B9FE8FA09 /* marker-performance_hall.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-performance_hall.svg"; path = "../../../packages/design-system/src/assets/icons/marker-performance_hall.svg"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		EDBD254F5A504010993F7340 /* marker-promation.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-promation.svg"; path = "../../../packages/design-system/src/assets/icons/marker-promation.svg"; sourceTree = "<group>"; };
+		EE9E6DEAFB6F46CDA35FC957 /* SUIT-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Thin.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-Thin.ttf"; sourceTree = "<group>"; };
+		F5F0877E834E4763ADEB1052 /* SUIT-Heavy.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Heavy.ttf"; path = "../../../packages/design-system/src/assets/fonts/SUIT-Heavy.ttf"; sourceTree = "<group>"; };
+		FC2CA4ADF99F47BBBDB3BAFE /* camera.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = camera.svg; path = "../../../packages/design-system/src/assets/icons/camera.svg"; sourceTree = "<group>"; };
+		FC470BF950A7477B8DE558D8 /* marker-toilet.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "marker-toilet.svg"; path = "../../../packages/design-system/src/assets/icons/marker-toilet.svg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +271,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				9B0199D2F4DF4FF8A622D355 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -138,6 +285,87 @@
 				00E356EE1AD99517003FC87E /* AdminTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		9B0199D2F4DF4FF8A622D355 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6043C26C436F4832B729821E /* SUIT-Bold.ttf */,
+				46B65C615D0A4D7F9B7043CB /* SUIT-ExtraBold.ttf */,
+				BE33EBEB4AD24AF4BCF16686 /* SUIT-ExtraLight.ttf */,
+				F5F0877E834E4763ADEB1052 /* SUIT-Heavy.ttf */,
+				88446BD0CF5148FCAED37427 /* SUIT-Light.ttf */,
+				78738118DDC646B198CC8695 /* SUIT-Medium.ttf */,
+				4E1269F2C6EE44939B1A0DB2 /* SUIT-Regular.ttf */,
+				D1DC630833604FBD9FE62B68 /* SUIT-SemiBold.ttf */,
+				EE9E6DEAFB6F46CDA35FC957 /* SUIT-Thin.ttf */,
+				7BDD422C9D824BD3AB448BAE /* alert-filled.svg */,
+				D9C3DE4167454ACC86A9A50D /* alert.svg */,
+				3EEA23C306364A0C8DED7268 /* arrow-down.svg */,
+				DE75EE662C1D433BB0823A23 /* arrow-up.svg */,
+				D2F1E234C6D446F5B75BA5F8 /* arrow.svg */,
+				C56BF7D818A346FD8E26C9CB /* calendar.svg */,
+				FC2CA4ADF99F47BBBDB3BAFE /* camera.svg */,
+				6F6EAA19E6254F11A2991E00 /* check.svg */,
+				9D68B83FAE16435D93E9D01A /* checkbox-field.svg */,
+				84AC4937D99E493992222360 /* checkbox-filled.svg */,
+				6022BF2FD50743F1844610BC /* checkbox-nonfilled.svg */,
+				87EDAD117F954D8BA0BE1228 /* chevron.svg */,
+				C86F51138C7D462B8607BD8C /* circle_filled.svg */,
+				D944B14897E14C99800CAD4C /* close-active.svg */,
+				30049FACEE474411B1A26E95 /* close.svg */,
+				36DA037836AF4F3CA9403BAD /* facebook.svg */,
+				E89E6C4C5896462B9BB68469 /* geo-fill.svg */,
+				5D2059B2FD2E440D983F3FD7 /* geo.svg */,
+				126292DF5F6E4922B13A62C7 /* geopoint-filled.svg */,
+				4C52E374F5ED4689B1F86C84 /* geopoint.svg */,
+				125FD8C3EAAD46448756BAF4 /* google.svg */,
+				2E8B259EBB084AB6998A194B /* guestbook-board.svg */,
+				16627210F4754C53B66B180A /* guestbook-filled.svg */,
+				D58372311E6649B5ABE752D7 /* guestbook-new.svg */,
+				9AC264A740304726ABC81F83 /* guestbook.svg */,
+				5330844A53104BF5BD790A1F /* heart-fill.svg */,
+				CA0D1DB410E648179792A9D5 /* heart.svg */,
+				C1226A9765954A1F974D89E4 /* help.svg */,
+				B3C81A38422E4904A873B078 /* home-filled.svg */,
+				EB3ED86095CF4EF6BAB30A58 /* home.svg */,
+				B05B6D0003024D05AA86B2CA /* instagram.svg */,
+				CBC36393E26F442DB47586E9 /* marker-bus_stop.svg */,
+				111424D8ADA64EE2ADB7B185 /* marker-contents.svg */,
+				3896B499E64B422F89D47EEB /* marker-flea_market.svg */,
+				805E46D98FF24A59AB006178 /* marker-food_truck.svg */,
+				902415BDADA34B27AF0190A6 /* marker-liquer_store.svg */,
+				EC57145CBFF14F4B9FE8FA09 /* marker-performance_hall.svg */,
+				EDBD254F5A504010993F7340 /* marker-promation.svg */,
+				1A1FFB3DB8384BD99C71EBB2 /* marker-pub.svg */,
+				006DBB0084F843A6B647536F /* marker-smoking_area.svg */,
+				FC470BF950A7477B8DE558D8 /* marker-toilet.svg */,
+				241D4F4D894C47E7BF0D2A77 /* minus.svg */,
+				5E03A721E0354F329586A5A6 /* mobile.svg */,
+				667B74B4DD9F48A59CC9B5C4 /* moon.svg */,
+				5842E4AEAC454CF3A7774D1E /* plus.svg */,
+				76A715E1918D4A3B9F59F2E7 /* pub-filled.svg */,
+				A600CF2EFAE34A5AB8651E7C /* pub.svg */,
+				A194375C0C324576BB17B926 /* refresh.svg */,
+				94191FC61E094B5BA8B698CD /* search.svg */,
+				89D56712D1CB4D7A9343F894 /* stage-eighth.svg */,
+				611EB9B19D9449D0BDC8FC82 /* stage-filled.svg */,
+				C8C7B12C4DFB423C89835340 /* stage.svg */,
+				811BE927FCB849A69DC6665D /* star-fill.svg */,
+				4F4B5824E73C4749B1C45368 /* star.svg */,
+				A2CC44C7DAAB41BA8B625C89 /* sun.svg */,
+				27B86C5A952F479EAEA79B9A /* time.svg */,
+				9B7CAF17DA374D70978D1A30 /* toilet.svg */,
+				8A700C3FF6F144399E3F14FE /* trash.svg */,
+				D43DDA72A4574DB7A54AF228 /* waiting-filled.svg */,
+				6E153B4A8481495EAC85F9BB /* waiting.svg */,
+				42D2F8E4D2424FC5AEA73FE1 /* write.svg */,
+				7CDD24CBCA8B4F32A5237932 /* app-logo.svg */,
+				C56B8CB56F0D4DA4A716BDF5 /* company-logo.svg */,
+				6460459714914BCEAEB539B0 /* school-logo.svg */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -247,6 +475,79 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				27E66D29359DBF956A33E2A3 /* PrivacyInfo.xcprivacy in Resources */,
+				796C4BF7F5E746EC8B2AA8B8 /* SUIT-Bold.ttf in Resources */,
+				4ACB5D46476F440BB06C699A /* SUIT-ExtraBold.ttf in Resources */,
+				90F0E2E721E646329DC9766F /* SUIT-ExtraLight.ttf in Resources */,
+				8E7AB22C9F5E430BA282A301 /* SUIT-Heavy.ttf in Resources */,
+				AB2A922B58F34670A47453E4 /* SUIT-Light.ttf in Resources */,
+				01FC83776D984BA68494295B /* SUIT-Medium.ttf in Resources */,
+				36F5CF8F9006427BBA4F59D6 /* SUIT-Regular.ttf in Resources */,
+				BE0EB9FFC5704664A0E1CD9E /* SUIT-SemiBold.ttf in Resources */,
+				0795F098B7DE41818AAB5998 /* SUIT-Thin.ttf in Resources */,
+				91F8928AE98D42F48EFB3FDB /* alert-filled.svg in Resources */,
+				07D36A1F228A4E1B918F0C1C /* alert.svg in Resources */,
+				D3F09EFBC4D54181A7F1E47E /* arrow-down.svg in Resources */,
+				91816BA0BC4542ACAE03F1AF /* arrow-up.svg in Resources */,
+				E5402A6E3E5649E295E22632 /* arrow.svg in Resources */,
+				2B70AE1DBEDC4C8A933BE704 /* calendar.svg in Resources */,
+				E030A38230AC487E8833CADA /* camera.svg in Resources */,
+				1FE89004800C4079BB295862 /* check.svg in Resources */,
+				B7378B4C6DC74108BAAA5A23 /* checkbox-field.svg in Resources */,
+				5BF1E3E9C01B46C2AFD4CF69 /* checkbox-filled.svg in Resources */,
+				D2CD60B0D8F446ACB3B5432A /* checkbox-nonfilled.svg in Resources */,
+				4807B72C2B914646A92B3D2C /* chevron.svg in Resources */,
+				BF017822321C406EAB073CD8 /* circle_filled.svg in Resources */,
+				E3720E1B44CF4980AC925831 /* close-active.svg in Resources */,
+				00E4F2BE3E6C4368B7B2FC21 /* close.svg in Resources */,
+				9A73C205F779492DBDEA8FB0 /* facebook.svg in Resources */,
+				94E53C4134C64E8B84934666 /* geo-fill.svg in Resources */,
+				D6834BA180F94C4DA590798D /* geo.svg in Resources */,
+				6E92E4115FA640B2ABFE44B7 /* geopoint-filled.svg in Resources */,
+				1C0564E5D71E46E5BBCC859D /* geopoint.svg in Resources */,
+				7E36949C8D91401EB052A682 /* google.svg in Resources */,
+				5E0A321F6A0F41048FE991C8 /* guestbook-board.svg in Resources */,
+				606C8228797947788079981C /* guestbook-filled.svg in Resources */,
+				7F15E9C53E0245CB8C951232 /* guestbook-new.svg in Resources */,
+				FBE936503531491AB64430CD /* guestbook.svg in Resources */,
+				EBFF0260A3C242D9B307D9DB /* heart-fill.svg in Resources */,
+				7B291DDC57F546C98E4A8417 /* heart.svg in Resources */,
+				6AD8A6B4472F4C5983F03FAB /* help.svg in Resources */,
+				596F27E96E014D7DB30C9F82 /* home-filled.svg in Resources */,
+				A310F2E53FAA40AD94800743 /* home.svg in Resources */,
+				2664F6C83DC940338EFDC51E /* instagram.svg in Resources */,
+				59459CB060BD4B5DB4151AE9 /* marker-bus_stop.svg in Resources */,
+				DB0E573F323E4D17A1686D78 /* marker-contents.svg in Resources */,
+				DEA84F7B7678473AAAB72F16 /* marker-flea_market.svg in Resources */,
+				EDCBCBAFFE9841A9A0B4D262 /* marker-food_truck.svg in Resources */,
+				F8D86C9F6F2C4B9A986882F0 /* marker-liquer_store.svg in Resources */,
+				19BA04F8A150448C81297373 /* marker-performance_hall.svg in Resources */,
+				CB7BFF12198A4604B6EE9315 /* marker-promation.svg in Resources */,
+				CC1BA2128B57440782F00380 /* marker-pub.svg in Resources */,
+				0F0CA9F5732C49A58606B590 /* marker-smoking_area.svg in Resources */,
+				B5621783EE1140E69A556914 /* marker-toilet.svg in Resources */,
+				C5D707F5621A425B9009A56C /* minus.svg in Resources */,
+				4411B06A030F435CA472E1A2 /* mobile.svg in Resources */,
+				DC37976573C54B728D852A93 /* moon.svg in Resources */,
+				32B6C8C229E44B24BE94E692 /* plus.svg in Resources */,
+				CEA52BD250554F3AAB667302 /* pub-filled.svg in Resources */,
+				09FF41D397DA4450A495F3BF /* pub.svg in Resources */,
+				569862EB1AE64216B78263E1 /* refresh.svg in Resources */,
+				7D7E7FD240DC406985520F57 /* search.svg in Resources */,
+				5E7FEFA9619E45CE91BB45EF /* stage-eighth.svg in Resources */,
+				B5E1B30F240D4F589E537F8B /* stage-filled.svg in Resources */,
+				71B1569853694FD3BD0997A7 /* stage.svg in Resources */,
+				7C00DC762B2A4703AF3D16E7 /* star-fill.svg in Resources */,
+				748BD9ABCA104A0BA5AD3E7A /* star.svg in Resources */,
+				F8ED999B17484AE8A42C5347 /* sun.svg in Resources */,
+				E120A7AA06404E498C2F0B0E /* time.svg in Resources */,
+				D80593954A9D4ECFBA1DB52E /* toilet.svg in Resources */,
+				87FCD501D81246E5B078DFEC /* trash.svg in Resources */,
+				5DB184F077C1410E8DFB206F /* waiting-filled.svg in Resources */,
+				D9C0F3F8669D4245A303FF73 /* waiting.svg in Resources */,
+				7D3EC72B7755410697B45883 /* write.svg in Resources */,
+				DD7E738E5E3B4EAB89574317 /* app-logo.svg in Resources */,
+				84EB6D1FAD5643C79039A24B /* company-logo.svg in Resources */,
+				B8F69A9746D54CD0977ABFF2 /* school-logo.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -588,7 +889,7 @@
 					"$(inherited)",
 					" ",
 				);
-				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
 				USE_HERMES = true;
@@ -660,7 +961,7 @@
 					"$(inherited)",
 					" ",
 				);
-				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
