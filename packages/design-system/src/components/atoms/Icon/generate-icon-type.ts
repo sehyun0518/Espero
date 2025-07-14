@@ -1,6 +1,9 @@
 import { readdirSync, writeFileSync, readFileSync } from 'fs';
 import path from 'path';
-const _dirname = path.dirname(__filename);
+import { fileURLToPath } from 'url';
+
+const _filename = fileURLToPath(import.meta.url); // ESM 전용 __filename
+const _dirname = path.dirname(_filename); // ESM 전용 __dirname
 
 const ICONS_DIR = path.resolve(_dirname, '../../../assets/icons');
 const OUTPUT_FILE = path.resolve(_dirname, './icon-type.ts');
