@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "nxCloudId": "6865e7b731c8112edfb151a1",
+  "nxCloudId": "68749c187c5aaeaecfa4412b",
   "plugins": [
     {
       "plugin": "@nx/react-native/plugin",
