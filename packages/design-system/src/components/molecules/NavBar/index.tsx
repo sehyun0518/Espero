@@ -5,13 +5,13 @@ import { styles } from './style';
 import type { HomeNavBarProps, SearchNavBarProps, PageNavBarProps } from './type';
 // stylesheet
 // text common component
-import { Typography } from '../../../components/atoms/Typography';
 // colors token
-import { colors } from '../../../theme/colors';
 // icons iamges
-import BackSvg from '../../assets/icons/chevron.svg';
-import SearchSvg from '../../assets/icons/search.svg';
-import LogoSvg from '../../assets/images/app-logo.svg';
+import BackSvg from '../../../assets/icons/chevron.svg';
+import SearchSvg from '../../../assets/icons/search.svg';
+import LogoSvg from '../../../assets/images/app-logo.svg';
+import { Typography } from '../../../components/atoms/Typography';
+import { colors } from '../../../theme/colors';
 
 const Home = ({ style, isSearch }: HomeNavBarProps): JSX.Element => {
   return (
