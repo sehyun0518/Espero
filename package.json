@@ -1,6 +1,7 @@
 {
   "name": "espero",
   "version": "1.0.0",
+  "type": "commonjs",
   "packageManager": "yarn@4.9.1",
   "workspaces": [
     "packages/*",
@@ -65,7 +66,8 @@
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "generate:icon": "ts-node ./packages/design-system/src/components/atoms/Icon/generate-icon-type.ts"
   },
   "dependencies": {
     "react": "18.3.1",

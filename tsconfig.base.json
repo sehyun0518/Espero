@@ -11,7 +11,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "strict": true,
-    "types": [],
+    "types": ["node"],
     "experimentalDecorators": true,
     "jsx": "react-jsx",
     "lib": ["ESNext", "ESNext.AsyncIterable", "DOM"],
