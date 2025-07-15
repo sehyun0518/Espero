@@ -4,6 +4,7 @@ import type { TypographyType } from '../Typography/type';
 export const styles = StyleSheet.create({
   container: {
     display: 'flex',
+    flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
   },
@@ -42,4 +43,23 @@ export const textMap: Record<keyof typeof sizeMap, TypographyType> = {
   small: 'small500',
   medium: 'medium500',
   large: 'h4',
+};
+
+export const IconSizeMap: Record<keyof typeof sizeMap, any> = {
+  xsmall: {
+    width: 16,
+    height: 16,
+  },
+  small: {
+    width: 20,
+    height: 20,
+  },
+  medium: {
+    width: 24,
+    height: 24,
+  },
+  large: {
+    width: 27,
+    height: 27,
+  },
 };
