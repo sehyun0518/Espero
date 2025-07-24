@@ -9,6 +9,7 @@
     "metro-config": "*",
     "react": "*",
     "react-native": "*",
+    "react-native-reanimated": "*",
     "react-native-svg": "*"
   },
   "scripts": {
