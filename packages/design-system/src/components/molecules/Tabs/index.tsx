@@ -3,7 +3,7 @@ import { colors } from 'packages/design-system/src/theme/colors';
 import { Children, cloneElement, isValidElement, useCallback, useState } from 'react';
 import { Pressable, View } from 'react-native';
 // type
-import { styles } from './styles';
+import { styles } from './style';
 import type { TabsProps, TabProps } from './type';
 // stylesheet
 // atoms component
